@@ -10,7 +10,7 @@ body {
   text-align: center;
 }
 
-button{
+button {
   background-color: #61dafb;
   color: #282c34;
   font-size: 1rem;
@@ -22,7 +22,7 @@ button{
   font-weight: bold;
 }
 
-button:hover{
+button:hover {
   background-color: #282c34;
   color: #61dafb;
 }
